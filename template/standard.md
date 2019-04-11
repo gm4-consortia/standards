@@ -7,9 +7,7 @@
 **Last Updated** `YYYY-MM-DD`
 
 ## Overview
-1. Main point
-	1. Sub-point
-     1. Sub-sub-point
+1. <Standard Name> Standard (CAT-STID) <makes... lays out the format for...>.
 2. 
 3. 
 	
