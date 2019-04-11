@@ -4,7 +4,7 @@
 **Base Numerical ID** `STID`  
 **Location** `category/STID-r#.md`  
 **Effects** `Category`  
-**Last Updated** YYYY-MM-DD  
+**Last Updated** `YYYY-MM-DD`
 
 ## Overview
 1. Main point
