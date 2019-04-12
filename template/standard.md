@@ -1,6 +1,6 @@
 # <Standard Name> Standard
 
-**Standard Number** `CAT-STIDr#`  
+**Standard Number** `CAT:STID-r#`  
 **Base Numerical ID** `STID`  
 **Location** `category/STID-r#.md`  
 **Effects** `Category`  
